@@ -8,6 +8,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 import org.springframework.web.servlet.view.JstlView;
 
+//this file is used to crete a confugarations by using spring
 @Configuration
 @EnableWebMvc
 @ComponentScan(basePackages = "nanditha.example")
